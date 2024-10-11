@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+.titan {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.text-flux {
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.bg-radial-gradient {
+    background: radial-gradient(circle, rgb(248, 222, 105) 0%, rgb(234, 179, 8) 100%);
+  }
